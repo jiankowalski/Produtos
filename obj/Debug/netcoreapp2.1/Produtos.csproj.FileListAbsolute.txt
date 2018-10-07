@@ -1,0 +1,14 @@
+D:\programas\dotNet\Produtos\bin\Debug\netcoreapp2.1\Produtos.deps.json
+D:\programas\dotNet\Produtos\bin\Debug\netcoreapp2.1\Produtos.runtimeconfig.json
+D:\programas\dotNet\Produtos\bin\Debug\netcoreapp2.1\Produtos.runtimeconfig.dev.json
+D:\programas\dotNet\Produtos\bin\Debug\netcoreapp2.1\Produtos.dll
+D:\programas\dotNet\Produtos\bin\Debug\netcoreapp2.1\Produtos.pdb
+D:\programas\dotNet\Produtos\obj\Debug\netcoreapp2.1\Produtos.csprojAssemblyReference.cache
+D:\programas\dotNet\Produtos\obj\Debug\netcoreapp2.1\Produtos.csproj.CoreCompileInputs.cache
+D:\programas\dotNet\Produtos\obj\Debug\netcoreapp2.1\Produtos.RazorAssemblyInfo.cache
+D:\programas\dotNet\Produtos\obj\Debug\netcoreapp2.1\Produtos.RazorAssemblyInfo.cs
+D:\programas\dotNet\Produtos\obj\Debug\netcoreapp2.1\Produtos.AssemblyInfoInputs.cache
+D:\programas\dotNet\Produtos\obj\Debug\netcoreapp2.1\Produtos.AssemblyInfo.cs
+D:\programas\dotNet\Produtos\obj\Debug\netcoreapp2.1\Produtos.RazorTargetAssemblyInfo.cache
+D:\programas\dotNet\Produtos\obj\Debug\netcoreapp2.1\Produtos.dll
+D:\programas\dotNet\Produtos\obj\Debug\netcoreapp2.1\Produtos.pdb
